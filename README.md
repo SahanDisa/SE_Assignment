@@ -1,5 +1,9 @@
-# SEassignment-draw.io-
+# SE_Assignment
 
 # Draw.io
 
 # SE Assignment in 1st Year
+
+Draw.io is a open source diagram making tools which has lots of facilities for the ediiting and creating diagrams 
+
+> Documentation and Prsentation only
